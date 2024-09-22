@@ -5,3 +5,6 @@
 
 ## 上課網址
 https://meet.google.com/zfb-kupf-nok
+
+## 第一次上課youtube
+https://www.youtube.com/watch?v=rhiHDtYQCcM
