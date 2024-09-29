@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=l3SYEUV4x58
 addess：dpg-crnsmq56l47c73ak9f7g-a.oregon-postgres.render.com  
 
 ![alt text](image-1.png)
+
+# SQL指令
+https://docs.postgresql.tw/
+
