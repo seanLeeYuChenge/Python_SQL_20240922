@@ -6,5 +6,13 @@
 ## 上課網址
 https://meet.google.com/zfb-kupf-nok
 
+addess：piRobert0301.local
+db user：axx
+password：raspberry
+
+
 ## 第一次上課youtube
 https://www.youtube.com/watch?v=rhiHDtYQCcM
+
+# 第二次上課youtube
+https://www.youtube.com/watch?v=xeUrqOBoEYk
