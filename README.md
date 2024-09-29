@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=rhiHDtYQCcM
 
 # 第二次上課youtube
 https://www.youtube.com/watch?v=xeUrqOBoEYk
+https://www.youtube.com/watch?v=l3SYEUV4x58
 
 帳號:render_chilllee_user  
 密碼:6b0lctCoNBUXYhg5Ktwqgn5jJKDZLBkf  
