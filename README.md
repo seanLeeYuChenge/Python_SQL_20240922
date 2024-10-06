@@ -31,3 +31,5 @@ https://docs.postgresql.tw/
 # 第三次上課youtube
 
 https://www.youtube.com/watch?v=aS6GG1U0VWk
+
+https://www.youtube.com/watch?v=2MDuohWanzk
