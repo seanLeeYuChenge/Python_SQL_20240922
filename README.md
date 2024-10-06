@@ -28,3 +28,6 @@ addess：dpg-crnsmq56l47c73ak9f7g-a.oregon-postgres.render.com
 # SQL指令
 https://docs.postgresql.tw/
 
+# 第三次上課youtube
+
+https://www.youtube.com/watch?v=aS6GG1U0VWk
