@@ -33,3 +33,9 @@ https://docs.postgresql.tw/
 https://www.youtube.com/watch?v=aS6GG1U0VWk
 
 https://www.youtube.com/watch?v=2MDuohWanzk
+
+# 第四次上課youtube
+
+https://www.youtube.com/watch?v=_hR_O9GrmsE
+
+https://www.youtube.com/watch?v=BRrQDI-6K34
