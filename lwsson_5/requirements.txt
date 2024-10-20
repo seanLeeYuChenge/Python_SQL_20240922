@@ -11,3 +11,4 @@ conda activate venv1
 conda deactivate
 Python --version
 conda deactivate
+pip install psycopg2-binary
