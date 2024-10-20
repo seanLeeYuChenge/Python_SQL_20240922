@@ -14,6 +14,8 @@ password：raspberry
 ## 第一次上課youtube
 https://www.youtube.com/watch?v=rhiHDtYQCcM
 
+設定render 2:11:00
+
 # 第二次上課youtube
 https://www.youtube.com/watch?v=xeUrqOBoEYk
 
