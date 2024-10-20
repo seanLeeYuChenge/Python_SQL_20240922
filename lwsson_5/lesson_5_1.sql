@@ -50,9 +50,15 @@ GROUP BY 站名,年份;
 
 /*進站人數最多的一筆*/
 
-SELECT stationname AS 站名,gateincomingcnt AS 進站人數
+SELECT name,date,gateincomingcnt
 FROM stations JOIN station_in_out ON stationcode = stacode
-WHERE gateincomingcnt = (
-	SELECT MAX(gateincomingcnt)
-	FROM station_in_out
-);
+WHERE (stationname,gateincomingcnt) IN (
+	SELECT stationname AS 站名,MAX(gateincomingcnt) AS 最多人數
+	FROM stations JOIN station_in_out ON stationcode = stacode
+	GROUP BY 站名	
+)
+ORDER BY gateincomingcnt;
+
+SELECT stationname AS 站名,MAX(gateincomingcnt) AS 最多人數
+FROM stations JOIN station_in_out ON stationcode = stacode
+GROUP BY 站名;
