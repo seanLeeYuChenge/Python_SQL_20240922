@@ -1,0 +1,14 @@
+conda init --all bash
+conda config --set auto_activate_base false
+
+conda create --name venv1 python=3.11
+conda activate venv1
+conda init powershell
+Get-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+conda activate venv1
+conda deactivate
+Python --version
+conda deactivate
+pip install psycopg2-binary
