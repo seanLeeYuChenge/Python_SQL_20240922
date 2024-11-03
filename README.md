@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=l3SYEUV4x58
 密碼:6b0lctCoNBUXYhg5Ktwqgn5jJKDZLBkf  
 addess：dpg-crnsmq56l47c73ak9f7g-a.oregon-postgres.render.com  
 
+postgresql://render_chilllee_2_user:UZtwxvDt5RBYhx8qMndZ1c3OQa8Ba59J@dpg-csepgkjtq21c738fhm70-a.oregon-postgres.render.com/render_chilllee_2_user
 ![alt text](image-1.png)
 
 # SQL指令
@@ -54,3 +55,7 @@ https://www.youtube.com/watch?v=BvzQqCclH4w
 https://www.youtube.com/watch?v=6Kq4jE3WQyg
 
 https://www.youtube.com/watch?v=pEhAR6t7cF8
+
+# 第七次上課youtube
+https://www.youtube.com/watch?v=giOk5K7EZik
+
