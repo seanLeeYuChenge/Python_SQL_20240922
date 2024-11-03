@@ -1,0 +1,1 @@
+streamlit run lesson_7_4.py
