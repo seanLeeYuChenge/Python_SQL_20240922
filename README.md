@@ -59,3 +59,4 @@ https://www.youtube.com/watch?v=pEhAR6t7cF8
 # 第七次上課youtube
 https://www.youtube.com/watch?v=giOk5K7EZik
 
+https://youtube.com/live/1oNO4gSDMvs
