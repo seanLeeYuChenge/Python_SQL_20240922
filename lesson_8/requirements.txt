@@ -1,0 +1,9 @@
+pip install psycopg2-binary
+pip install python-dotenv
+pip install streamlit
+streamlit run lesson8.py
+
+HOST='192.168.0.252'
+DATABASE='mydatabase_a14'
+USER='a14'
+PASSWORD='raspberry'

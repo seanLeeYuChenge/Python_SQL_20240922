@@ -63,3 +63,6 @@ https://youtube.com/live/1oNO4gSDMvs
 
 # 第八次上課youtube
 https://www.youtube.com/watch?v=87M5N9gnXtQ
+
+
+https://www.youtube.com/watch?v=tqEKDFTQbI8
