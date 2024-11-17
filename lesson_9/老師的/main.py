@@ -1,3 +1,4 @@
+
 from dotenv import load_dotenv
 import streamlit as st
 from pprint import pprint
@@ -32,3 +33,13 @@ selected = st.radio(
 data = tools.get_info_area(area=selected)
 data1 = [{'日期':item[0],'站點':item[1],'總車輛':item[6],'可借':item[7],'可還':item[8],'活動':item[9]}for item in data]
 st.dataframe(data1)
+        
+
+
+
+
+    
+
+
+
+    

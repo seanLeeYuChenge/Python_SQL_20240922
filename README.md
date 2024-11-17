@@ -69,3 +69,5 @@ https://www.youtube.com/watch?v=tqEKDFTQbI8
 
 # 第九次上課youtube
 https://www.youtube.com/watch?v=n-9pIJMvp58
+
+https://www.youtube.com/watch?v=RVBDENCC8gM

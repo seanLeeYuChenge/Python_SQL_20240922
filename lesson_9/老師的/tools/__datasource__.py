@@ -28,7 +28,7 @@ def save_to_database(data:list[dict])->None:
     
     #建立資料表
     load_dotenv()
-    conn = psycopg2.connect(host=os.environ['HOST'],database=os.environ['DATABASE'],user=os.environ['USER'],password=os.environ['PASSWORD'])
+    conn = psycopg2.connect(host=os.environ['POSTGRE_HOST'],database=os.environ['POSTGRE_DATABASE'],user=os.environ['POSTGRE_USER'],password=os.environ['POSTGRE_PASSWORD'])
     with conn:
         with conn.cursor() as cursor:
             sql = '''
@@ -59,7 +59,7 @@ def save_to_database(data:list[dict])->None:
             
     conn.close()
 
-    conn = psycopg2.connect(host=os.environ['HOST'],database=os.environ['DATABASE'],user=os.environ['USER'],password=os.environ['PASSWORD'])
+    conn = psycopg2.connect(host=os.environ['POSTGRE_HOST'],database=os.environ['POSTGRE_DATABASE'],user=os.environ['POSTGRE_USER'],password=os.environ['POSTGRE_PASSWORD'])
 
     with conn:
         with conn.cursor() as cursor:
@@ -95,7 +95,7 @@ def save_to_database(data:list[dict])->None:
 
 def get_sarea_from_database()->list[tuple]:
     load_dotenv()
-    conn = psycopg2.connect(host=os.environ['HOST'],database=os.environ['DATABASE'],user=os.environ['USER'],password=os.environ['PASSWORD'])
+    conn = psycopg2.connect(host=os.environ['POSTGRE_HOST'],database=os.environ['POSTGRE_DATABASE'],user=os.environ['POSTGRE_USER'],password=os.environ['POSTGRE_PASSWORD'])
     with conn:
         with conn.cursor() as cursor:
             sql = '''
@@ -111,7 +111,7 @@ def get_sarea_from_database()->list[tuple]:
 
 def get_info_area(area:str)->list[tuple]:
     load_dotenv()
-    conn = psycopg2.connect(host=os.environ['HOST'],database=os.environ['DATABASE'],user=os.environ['USER'],password=os.environ['PASSWORD'])
+    conn = psycopg2.connect(host=os.environ['POSTGRE_HOST'],database=os.environ['POSTGRE_DATABASE'],user=os.environ['POSTGRE_USER'],password=os.environ['POSTGRE_PASSWORD'])
     with conn:
         with conn.cursor() as cursor:
             sql = '''
