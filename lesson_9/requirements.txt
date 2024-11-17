@@ -1,0 +1,29 @@
+pip install psycopg2-binary
+pip install python-dotenv
+pip install streamlit
+streamlit run lesson8.py
+
+HOST='192.168.0.252'
+DATABASE='mydatabase_a14'
+USER='a14'
+PASSWORD='raspberry'
+
+
+HOST='dpg-csepgkjtq21c738fhm70-a.oregon-postgres.render.com'
+DATABASE='render_chilllee_2'
+USER='render_chilllee_2_user'
+PASSWORD='UZtwxvDt5RBYhx8qMndZ1c3OQa8Ba59J'
+
+conda init --all bash
+conda config --set auto_activate_base false
+
+conda create --name venv1 python=3.11
+conda activate venv1
+conda init powershell
+Get-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+conda activate venv1
+conda deactivate
+Python --version
+conda deactivate
